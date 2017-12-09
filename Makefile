@@ -4,7 +4,7 @@ VERSION := 0.0.1
 
 # publication repo
 PROJECT  := zzz
-#REGISTRY := docker.artifactory-preprod.a.intuit.com/$(PROJECT)
+#REGISTRY := EarlWaud/$(PROJECT)
 
 #all: build-all #push-all
 #build-all: build
