@@ -1,4 +1,5 @@
-FROM docker.artifactory-preprod.a.intuit.com/oicp/tomcat:latest
+#FROM docker.artifactory-preprod.a.intuit.com/oicp/tomcat:latest
+FROM docker.artifactory.a.intuit.com/oicp/tomcat:latest
 #FROM tomcat:latest
 MAINTAINER earl_waud@intuit.com
 
